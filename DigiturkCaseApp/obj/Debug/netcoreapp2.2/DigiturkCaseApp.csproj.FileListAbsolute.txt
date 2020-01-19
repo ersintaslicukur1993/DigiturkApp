@@ -1,0 +1,14 @@
+C:\Users\Ersin\source\repos\DigiturkCaseApp\DigiturkCaseApp\bin\Debug\netcoreapp2.2\DigiturkCaseApp.deps.json
+C:\Users\Ersin\source\repos\DigiturkCaseApp\DigiturkCaseApp\bin\Debug\netcoreapp2.2\DigiturkCaseApp.runtimeconfig.json
+C:\Users\Ersin\source\repos\DigiturkCaseApp\DigiturkCaseApp\bin\Debug\netcoreapp2.2\DigiturkCaseApp.runtimeconfig.dev.json
+C:\Users\Ersin\source\repos\DigiturkCaseApp\DigiturkCaseApp\bin\Debug\netcoreapp2.2\DigiturkCaseApp.dll
+C:\Users\Ersin\source\repos\DigiturkCaseApp\DigiturkCaseApp\obj\Debug\netcoreapp2.2\DigiturkCaseApp.csprojAssemblyReference.cache
+C:\Users\Ersin\source\repos\DigiturkCaseApp\DigiturkCaseApp\obj\Debug\netcoreapp2.2\DigiturkCaseApp.csproj.CoreCompileInputs.cache
+C:\Users\Ersin\source\repos\DigiturkCaseApp\DigiturkCaseApp\obj\Debug\netcoreapp2.2\DigiturkCaseApp.RazorAssemblyInfo.cache
+C:\Users\Ersin\source\repos\DigiturkCaseApp\DigiturkCaseApp\obj\Debug\netcoreapp2.2\DigiturkCaseApp.RazorAssemblyInfo.cs
+C:\Users\Ersin\source\repos\DigiturkCaseApp\DigiturkCaseApp\obj\Debug\netcoreapp2.2\DigiturkCaseApp.AssemblyInfoInputs.cache
+C:\Users\Ersin\source\repos\DigiturkCaseApp\DigiturkCaseApp\obj\Debug\netcoreapp2.2\DigiturkCaseApp.AssemblyInfo.cs
+C:\Users\Ersin\source\repos\DigiturkCaseApp\DigiturkCaseApp\obj\Debug\netcoreapp2.2\DigiturkCaseApp.RazorTargetAssemblyInfo.cache
+C:\Users\Ersin\source\repos\DigiturkCaseApp\DigiturkCaseApp\bin\Debug\netcoreapp2.2\DigiturkCaseApp.pdb
+C:\Users\Ersin\source\repos\DigiturkCaseApp\DigiturkCaseApp\obj\Debug\netcoreapp2.2\DigiturkCaseApp.dll
+C:\Users\Ersin\source\repos\DigiturkCaseApp\DigiturkCaseApp\obj\Debug\netcoreapp2.2\DigiturkCaseApp.pdb
